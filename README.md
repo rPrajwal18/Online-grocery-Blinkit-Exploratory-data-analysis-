@@ -34,4 +34,9 @@ Blinkit's sales analysis of 8k records across 2011-2022 shows annual sales stabi
 
 ![sales percent over outlet size](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cb951eaeedbb9b419e68c5de7e020417ef4ba4e6/Analysed%20Tables/sales_percent_over_outlet_size.png)
 
+### Product Level Performance
+- Five Item types: Fruits and Vegetables, Snack Foods, Household Items, Frozen Foods, and Dairy Items, generate 40% of total revenue.
+- Fruits and Vegetables account for 10% of all orders (1232 items ordered).
+- The Top 5 Item types including Canned goods has an Average rating of 3.97.
 
+![aggregates over item type](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cc0d3aa0042e6f1eb2210e148d490b7a28275a15/Analysed%20Tables/aggregated_by_item_type.png)
