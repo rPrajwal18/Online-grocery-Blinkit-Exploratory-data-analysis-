@@ -28,8 +28,10 @@ Blinkit's sales analysis of 8k records across 2011-2022 shows annual sales stabi
 - The Outlet type of Supermarket-1 and Grocery stores has most number of Items volumes sold with 5577 and 1083 respectively also with an average rating of 3.96
 - Item Fat Content of Low-Fat and Regular has sold of 60% and 40% respectively.
 
+![sales percent over outlet type](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cb951eaeedbb9b419e68c5de7e020417ef4ba4e6/Analysed%20Tables/aggregates_by_outlet_type.png)
+
 ![Outlet location type and Item fat content](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cb951eaeedbb9b419e68c5de7e020417ef4ba4e6/Analysed%20Tables/total_sales_by_outlet_location_type_and_item_fat_content.png)
 
 ![sales percent over outlet size](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cb951eaeedbb9b419e68c5de7e020417ef4ba4e6/Analysed%20Tables/sales_percent_over_outlet_size.png)
 
-![sales percent over outlet type](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cb951eaeedbb9b419e68c5de7e020417ef4ba4e6/Analysed%20Tables/aggregates_by_outlet_type.png)
+
