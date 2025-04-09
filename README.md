@@ -40,3 +40,18 @@ Blinkit's sales analysis of 8k records across 2011-2022 shows annual sales stabi
 - The Top 5 Item types including Canned goods has an Average rating of 3.97.
 
 ![aggregates over item type](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/cc0d3aa0042e6f1eb2210e148d490b7a28275a15/Analysed%20Tables/aggregated_by_item_type.png)
+
+## Recommendations
+
+### Maximizing Product Offerings:
+- **Expand High-Performing Item Types**: Increase item line variations in Fruits and Vegetables, Snack Foods, Household Items to meet diverse customer needs by driving repeat purchases and solidifying market presence.
+- **Optimize Item Pack**: Optimize by bundle it with gift items, or offer as a promotional offers to increase average order value (AOV) and sales contribution.
+
+### Regional Growth Strategies:
+- **Focus on High-Performing Regions**: Continue allocating resources to Outlet location types including Tier-2 and Tier-3 cities with regionalized marketing and product availability strategies tailored to local preferences.
+
+### Customer Growth and Retention:
+- **Boost Repeat Purchases**: Target single-purchase customers with personalized re-engagement and introduce tiered rewards within the loyalty program to incentivize frequent purchases and improve retention.
+
+
+
