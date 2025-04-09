@@ -16,3 +16,5 @@ Targed SQL queries regarding various granular kpi's can be found [here](https://
 
 ### Overview of Findings
 Blinkit's sales analysis of 8k records across 2011-2022 shows annual sales stabilizing at around 1.20 million, with Tier 3 cities and Medium Outlet-sizes contributing 40% of sales. Where top 5 items being Fruits and Vegetables, Snack Foods, Household Items, Frozen Foods, and Dairy Items for 40% of revenue, though customer rating is a concern as  ratings have declined by 15%. Blinkit can benefit from expanding these Item types by adding more products lines, optimizing shipping, customer satisfaction and rating to increase customer purchase value. Targeted growth in Low and Medium Outlet sizes, along with improvements to digital channels like the mobile app and UPI payment capabilities, will strengthen Blinkit's market position and drive sustainable growth.
+
+![Year on Year aggregated image](https://github.com/rPrajwal18/Online-grocery-Blinkit-Exploratory-data-analysis-/blob/73e0dcaee4ef70e2d050ca550f945d53840ff6b7/Analysed%20Tables/year_over_year_aggregated.png)
